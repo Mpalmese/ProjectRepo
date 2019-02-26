@@ -11,14 +11,9 @@ Research Questions to answer –
 
 2.	Which genres of film resulted in the greatest box office success?
 
-3.	Which Actors influenced the greatest box office results?
+3.	Does MPAA rating effect the box office?
 
-4.	Which Directors influenced the greatest box office results?
-
-5.	Does MPAA rating effect the box office?
-
-
-6.	Does runtime effect box office results?
+4.	Does runtime effect box office results?
 
 Data sets to be used
 API – OMDB ( http://www.omdbapi.com )

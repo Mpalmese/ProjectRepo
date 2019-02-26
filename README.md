@@ -18,6 +18,7 @@ Research Questions to answer –
 Data sets to be used
 
 API – OMDB ( http://www.omdbapi.com )
+
 csv file - ( U.S. Released Movies_ 1972-2016 )
 
 Rough breakdown of tasks

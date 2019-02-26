@@ -1,8 +1,12 @@
 # ProjectRepo
 Project Title – U.S. Box Office Trends of the 2010s
+
 Team Members - Mark Palmese, Nick Candaffio, Eileen Dolan, Tom Khambounheuang
+
 Project Description/Outline – Determine what factors provide the largest box office results. Look for trends based on metascore ratings, IMDB ratings, runtime, mpaa rating, genre, director, and actors.
+
 Research Questions to answer –  
+
 1.	Is there any correlation between critic and user ratings with box office results in the U.S.?
 
 2.	Which genres of film resulted in the greatest box office success?

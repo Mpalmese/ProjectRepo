@@ -13,7 +13,9 @@ Research Questions to answer –
 
 3.	Does MPAA rating effect the box office?
 
-4.	Does runtime effect box office results?
+4.	How does the month of release affect box office results?
+
+5.	Does runtime effect box office results?
 
 Data sets to be used
 
